@@ -2,8 +2,10 @@
 
 This project presents a comprehensive Power BI dashboard analyzing patient-level healthcare data. The goal is to derive meaningful insights about patient demographics, medical conditions, treatment patterns, financials, and operational metrics using real-world-style hospital data.
 
-![Dashboard Screenshot 1](./screenshots/dashboard1.png)
-![Dashboard Screenshot 2](./screenshots/dashboard2.png)
+![HealthCare Executive Summary](HealthCare Executive Summary.jpg)
+![HealthCare Patient Demography](HealthCare Patient Demography.jpg)
+![HeathCare Financial Overview] (HeathCare Financial Overview.jpg)
+![HealthCare Dashboard Navigation] (HealthCare Dashboard Navigation.jpg)
 
 ---
 
